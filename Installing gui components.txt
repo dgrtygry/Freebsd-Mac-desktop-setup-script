@@ -1,0 +1,48 @@
+Installing gui components.txt
+
+
+
+For mcOS BS Layout to work properly, you need to install these Widgets.
+So right click on Plasma desktop and go to "Add Widgets", then "Get New Widgets" and then "Download New Plasma Widgets" and search for the next Widgets:
+
+List of Widgets from left to right and Need to install
+
+Left
+
+
+Kpple Menu
+Application Title
+Global Menu
+
+Right
+
+
+Better inline Clock
+Latte Side Bar
+Ditto Menu
+Networks
+Big Sur Inline Battery
+Volume
+Bluethooth
+System Tray
+
+Inside the Latte Side Bar
+
+
+Notifications
+Media Player Control Compact
+CPU Loader Monitor
+
+Need to install
+
+
+Application Title
+Latte Side Bar
+Latte Spacer
+Latte Separator
+Better inline Clock
+Launchpad Plasma Menu
+Big Sur Inline Battery
+Kpple Menu
+Media Player Control Compact
+Ditto Menu
